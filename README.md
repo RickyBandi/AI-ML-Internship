@@ -8,12 +8,11 @@ This repository contains all tasks completed during the AI & ML Virtual Internsh
 | Task | Title                        | Link                                   |
 |------|------------------------------|----------------------------------------|
 | 1    | Data Cleaning & Preprocessing | [View Folder](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
-| 2    | Coming Soon...               | -                                      |
-| 3    | Coming Soon...               | -                                      |
+
 
 ---
 
-## ✅ Task 1: Data Cleaning & Preprocessing
+## Task 1: Data Cleaning & Preprocessing
 
 - Dataset: Titanic
 - Tools: Pandas, NumPy, Seaborn, Scikit-learn
