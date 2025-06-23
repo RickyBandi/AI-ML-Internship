@@ -23,7 +23,7 @@ This repository contains all tasks completed during the AI & ML Virtual Internsh
   - Removed outliers
   - Visualized data with violin, KDE, swarm, and pair plots
 
-🔗 [Task - 1](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb)
+🔗 [Open Task - 1](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb)
 
 ---
 
