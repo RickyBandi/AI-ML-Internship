@@ -11,6 +11,7 @@ This repo includes all tasks, code notebooks, and insights gained throughout the
 |------|--------------------------------|----------------------------------------------------------------------|
 | 1    | Data Cleaning & Preprocessing  | [🔗 View Task 1 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
 | 2    | Exploratory Data Analysis (EDA)| [🔗 View Task 2 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
+| 3    | Linear Regression              | [🔗 View Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
 
 ---
 
@@ -44,12 +45,18 @@ This repo includes all tasks, code notebooks, and insights gained throughout the
 
 ---
 
-## 🚀 What's Coming Next?
+## ✅ Task 3: Linear Regression
 
-- 🧪 Feature Engineering
-- 🤖 Model Building & Evaluation
-- 📈 Performance Tuning
-- 🧠 Final Project & Deployment (if applicable)
+- **Dataset**: Housing Price Prediction
+- **Tools**: Pandas, Scikit-learn, Matplotlib
+- **Highlights**:
+  - Handled categorical columns (`yes`/`no`, `furnishingstatus`)
+  - Filled missing values in binary features
+  - Trained a multiple linear regression model
+  - Evaluated using MAE, MSE, R² score
+  - Interpreted coefficients and visualized predictions
+
+📄 [Open Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb)
 
 ---
 
