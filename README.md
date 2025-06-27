@@ -12,6 +12,7 @@ This repo includes all tasks, code notebooks, and insights gained throughout the
 | 1    | Data Cleaning & Preprocessing  | [🔗 View Task 1 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
 | 2    | Exploratory Data Analysis (EDA)| [🔗 View Task 2 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
 | 3    | Linear Regression              | [🔗 View Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
+| 4    | Logistic Regression            | [🔗 View Task 4 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
 
 ---
 
@@ -57,6 +58,21 @@ This repo includes all tasks, code notebooks, and insights gained throughout the
   - Interpreted coefficients and visualized predictions
 
 📄 [Open Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb)
+
+---
+
+## ✅ Task 4: Logistic Regression
+
+- **Dataset**: Housing Price (same as Task 3, converted to binary classification)
+- **Tools**: Pandas, Scikit-learn, Matplotlib
+- **Highlights**:
+  - Converted price into binary classification target (expensive vs affordable)
+  - Encoded all categorical features
+  - Trained logistic regression model
+  - Evaluated with confusion matrix, precision, recall, and ROC-AUC
+  - Applied threshold tuning to demonstrate probabilistic output handling
+
+📄 [Open Task 4 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb)
 
 ---
 
