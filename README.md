@@ -1,103 +1,69 @@
-# 🤖 AI & ML Internship 2025 – Rithwik Bandi
+# AI & ML Internship 2025 – Rithwik Bandi
 
-Welcome to my AI & ML Virtual Internship 2025 repository.  
-This repo includes all tasks, code notebooks, and insights gained throughout the program.
-
----
-
-## 📁 Internship Tasks
-
-| Task | Title                          | Link                                                                 |
-|------|--------------------------------|----------------------------------------------------------------------|
-| 1    | Data Cleaning & Preprocessing  | [🔗 View Task 1 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
-| 2    | Exploratory Data Analysis (EDA)| [🔗 View Task 2 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
-| 3    | Linear Regression              | [🔗 View Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
-| 4    | Logistic Regression            | [🔗 View Task 4 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
-| 5    | Decision Trees & Random Forests| [🔗 View Task 5 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
+This repository contains all the task submissions, code notebooks, and analytical insights from the **AI & ML Virtual Internship 2025**. Each task explores real-world datasets, applies machine learning techniques, and demonstrates understanding through structured implementations.
 
 ---
 
-## ✅ Task 1: Data Cleaning & Preprocessing
+## 📌 Overview
 
-- **Dataset**: Titanic (Kaggle)
-- **Tools**: Pandas, NumPy, Seaborn, Scikit-learn
-- **Highlights**:
-  - Handled missing values
-  - One-hot encoded categorical features
-  - Standardized numerical columns
-  - Removed outliers using IQR method
-  - Visualized data using violin, KDE, swarm, and pair plots
-
-📄 [Open Task 1 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb)
+- 📚 Internship Duration: Summer 2025  
+- 🎓 Participant: Rithwik Bandi, B.Tech CSE – SR University  
+- 🧠 Focus: Data preprocessing, model building, evaluation, and interpretability  
+- 💼 Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 
 ---
 
-## ✅ Task 2: Exploratory Data Analysis (EDA)
+## 📂 Internship Tasks
 
-- **Dataset**: Titanic (same as Task 1)
-- **Tools**: Pandas, Seaborn, Matplotlib, Plotly
-- **Highlights**:
-  - Generated summary statistics (mean, median, std)
-  - Plotted histograms and boxplots
-  - Created pair plots and correlation heatmaps
-  - Detected skewness and explored feature relationships
-  - Gained feature-level insights for modeling
-
-📄 [Open Task 2 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb)
+| Task | Title                           | Description                                                        | Notebook Link |
+|------|---------------------------------|--------------------------------------------------------------------|---------------|
+| 1    | Data Cleaning & Preprocessing   | Handled missing values, encoding, scaling, and outlier detection   | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
+| 2    | Exploratory Data Analysis (EDA) | Generated statistical summaries and visualized data distributions  | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
+| 3    | Linear Regression               | Trained and evaluated a regression model using housing data        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
+| 4    | Logistic Regression             | Binary classification using logistic regression and ROC-AUC        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
+| 5    | Decision Trees & Random Forests | Applied tree-based classifiers, visualized trees and importances   | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
 
 ---
 
-## ✅ Task 3: Linear Regression
+## ✅ Task Summaries
 
-- **Dataset**: Housing Price Prediction
-- **Tools**: Pandas, Scikit-learn, Matplotlib
-- **Highlights**:
-  - Handled categorical columns (`yes`/`no`, `furnishingstatus`)
-  - Filled missing values in binary features
-  - Trained a multiple linear regression model
-  - Evaluated using MAE, MSE, R² score
-  - Interpreted coefficients and visualized predictions
+### Task 1: Data Cleaning & Preprocessing
+- **Dataset**: Titanic  
+- **Methods**: Null handling, one-hot encoding, IQR outlier removal, standardization  
+- **Visualization**: Violin plots, KDE plots, pairplots
 
-📄 [Open Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb)
+### Task 2: Exploratory Data Analysis (EDA)
+- **Dataset**: Titanic  
+- **Methods**: Summary stats, histograms, boxplots, pairplots, correlation matrix  
+- **Objective**: Pattern identification and initial inference
 
----
+### Task 3: Linear Regression
+- **Dataset**: Housing Price  
+- **Methods**: Feature handling, missing value imputation, model fitting  
+- **Evaluation**: MAE, MSE, R² Score  
+- **Interpretation**: Coefficient insights and prediction plotting
 
-## ✅ Task 4: Logistic Regression
+### Task 4: Logistic Regression
+- **Dataset**: Housing (recast into binary problem)  
+- **Methods**: Binary target transformation, logistic model fitting  
+- **Evaluation**: Confusion matrix, precision, recall, ROC-AUC  
+- **Extras**: Threshold tuning and probability interpretation
 
-- **Dataset**: Housing Price (same as Task 3, converted to binary classification)
-- **Tools**: Pandas, Scikit-learn, Matplotlib
-- **Highlights**:
-  - Converted price into binary classification target (expensive vs affordable)
-  - Encoded all categorical features
-  - Trained logistic regression model
-  - Evaluated with confusion matrix, precision, recall, and ROC-AUC
-  - Applied threshold tuning to demonstrate probabilistic output handling
-
-📄 [Open Task 4 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb)
-
----
-
-## ✅ Task 5: Decision Trees & Random Forests
-
-- **Dataset**: Heart Disease Dataset
-- **Tools**: Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Highlights**:
-  - Trained a Decision Tree classifier and visualized the tree
-  - Controlled overfitting using max depth
-  - Trained a Random Forest classifier and compared results
-  - Interpreted feature importances from the ensemble
-  - Evaluated model using confusion matrix and cross-validation
-
-📄 [Open Task 5 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb)
+### Task 5: Decision Trees & Random Forests
+- **Dataset**: Heart Disease  
+- **Methods**: Decision Tree and Random Forest training  
+- **Control**: Overfitting with max depth  
+- **Evaluation**: Feature importance, cross-validation, confusion matrix  
+- **Visualization**: Full tree structure and importances chart
 
 ---
 
-## 👨‍💻 Author
+## 👤 About Me
 
 **Rithwik Bandi**  
-🎓 B.Tech CSE, SR University  
-🌐 [GitHub](https://github.com/RickyBandi)
+B.Tech CSE, SR University  
+GitHub: [RickyBandi](https://github.com/RickyBandi)
 
 ---
 
-> *“Learning never exhausts the mind — it only ignites it.”*
+> *"Learning never exhausts the mind — it only ignites it."*
