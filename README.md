@@ -13,6 +13,7 @@ This repo includes all tasks, code notebooks, and insights gained throughout the
 | 2    | Exploratory Data Analysis (EDA)| [🔗 View Task 2 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
 | 3    | Linear Regression              | [🔗 View Task 3 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
 | 4    | Logistic Regression            | [🔗 View Task 4 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
+| 5    | Decision Trees & Random Forests| [🔗 View Task 5 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
 
 ---
 
@@ -73,6 +74,21 @@ This repo includes all tasks, code notebooks, and insights gained throughout the
   - Applied threshold tuning to demonstrate probabilistic output handling
 
 📄 [Open Task 4 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb)
+
+---
+
+## ✅ Task 5: Decision Trees & Random Forests
+
+- **Dataset**: Heart Disease Dataset
+- **Tools**: Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Highlights**:
+  - Trained a Decision Tree classifier and visualized the tree
+  - Controlled overfitting using max depth
+  - Trained a Random Forest classifier and compared results
+  - Interpreted feature importances from the ensemble
+  - Evaluated model using confusion matrix and cross-validation
+
+📄 [Open Task 5 Notebook](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb)
 
 ---
 
