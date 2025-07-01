@@ -22,6 +22,7 @@ This repository contains all the task submissions, code notebooks, and analytica
 | 3    | Linear Regression               | Trained and evaluated a regression model using housing data        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
 | 4    | Logistic Regression             | Binary classification using logistic regression and ROC-AUC        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
 | 5    | Decision Trees & Random Forests | Applied tree-based classifiers, visualized trees and importances   | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
+| 6    | K-Nearest Neighbors (KNN)       | Instance-based learning, K tuning, and decision boundary insights  | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-6/task-6.ipynb) |
 
 ---
 
@@ -55,6 +56,12 @@ This repository contains all the task submissions, code notebooks, and analytica
 - **Control**: Overfitting with max depth  
 - **Evaluation**: Feature importance, cross-validation, confusion matrix  
 - **Visualization**: Full tree structure and importances chart
+
+### Task 6: K-Nearest Neighbors (KNN)
+- **Dataset**: Iris  
+- **Methods**: Feature scaling, K tuning, and label encoding  
+- **Evaluation**: Accuracy, confusion matrix, classification report  
+- **Visualization**: Accuracy vs K plot, optional decision boundaries
 
 ---
 
