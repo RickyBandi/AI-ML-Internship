@@ -23,6 +23,7 @@ This repository contains all the task submissions, code notebooks, and analytica
 | 4    | Logistic Regression             | Binary classification using logistic regression and ROC-AUC        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
 | 5    | Decision Trees & Random Forests | Applied tree-based classifiers, visualized trees and importances   | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
 | 6    | K-Nearest Neighbors (KNN)       | Instance-based learning, K tuning, and decision boundary insights  | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-6/task-6.ipynb) |
+| 7    | Support Vector Machines (SVM)   | Margin-based classification using kernel trick and hyperparameter tuning | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-7/task-7.ipynb) |
 
 ---
 
@@ -62,6 +63,13 @@ This repository contains all the task submissions, code notebooks, and analytica
 - **Methods**: Feature scaling, K tuning, and label encoding  
 - **Evaluation**: Accuracy, confusion matrix, classification report  
 - **Visualization**: Accuracy vs K plot, optional decision boundaries
+
+### Task 7: Support Vector Machines (SVM)
+- **Dataset**: Breast Cancer  
+- **Methods**: Linear and RBF kernel implementation  
+- **Tuning**: Hyperparameters like `C` and `gamma`  
+- **Evaluation**: Accuracy, confusion matrix, ROC-AUC  
+- **Visualization**: Decision boundary (2D features), support vectors
 
 ---
 
