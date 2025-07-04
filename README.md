@@ -15,15 +15,16 @@ This repository contains all the task submissions, code notebooks, and analytica
 
 ## 📂 Internship Tasks
 
-| Task | Title                           | Description                                                        | Notebook Link |
-|------|---------------------------------|--------------------------------------------------------------------|---------------|
-| 1    | Data Cleaning & Preprocessing   | Handled missing values, encoding, scaling, and outlier detection   | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
-| 2    | Exploratory Data Analysis (EDA) | Generated statistical summaries and visualized data distributions  | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
-| 3    | Linear Regression               | Trained and evaluated a regression model using housing data        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
-| 4    | Logistic Regression             | Binary classification using logistic regression and ROC-AUC        | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
-| 5    | Decision Trees & Random Forests | Applied tree-based classifiers, visualized trees and importances   | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
-| 6    | K-Nearest Neighbors (KNN)       | Instance-based learning, K tuning, and decision boundary insights  | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-6/task-6.ipynb) |
+| Task | Title                           | Description                                                               | Notebook Link |
+|------|---------------------------------|---------------------------------------------------------------------------|---------------|
+| 1    | Data Cleaning & Preprocessing   | Handled missing values, encoding, scaling, and outlier detection          | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-1/task-1.ipynb) |
+| 2    | Exploratory Data Analysis (EDA) | Generated statistical summaries and visualized data distributions         | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-2/task-2.ipynb) |
+| 3    | Linear Regression               | Trained and evaluated a regression model using housing data               | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-3/task-3.ipynb) |
+| 4    | Logistic Regression             | Binary classification using logistic regression and ROC-AUC               | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-4/task-4.ipynb) |
+| 5    | Decision Trees & Random Forests | Applied tree-based classifiers, visualized trees and importances          | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-5/task-5.ipynb) |
+| 6    | K-Nearest Neighbors (KNN)       | Instance-based learning, K tuning, and decision boundary insights         | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-6/task-6.ipynb) |
 | 7    | Support Vector Machines (SVM)   | Margin-based classification using kernel trick and hyperparameter tuning | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-7/task-7.ipynb) |
+| 8    | Clustering with K-Means         | Performed unsupervised clustering with K-Means and silhouette evaluation  | [View](https://github.com/RickyBandi/AI-ML-Internship/blob/main/Task-8/task-8.ipynb) |
 
 ---
 
@@ -70,6 +71,12 @@ This repository contains all the task submissions, code notebooks, and analytica
 - **Tuning**: Hyperparameters like `C` and `gamma`  
 - **Evaluation**: Accuracy, confusion matrix, ROC-AUC  
 - **Visualization**: Decision boundary (2D features), support vectors
+
+### Task 8: Clustering with K-Means
+- **Dataset**: Mall Customers  
+- **Methods**: Gender encoding, feature scaling, KMeans clustering  
+- **Evaluation**: Elbow method, silhouette score  
+- **Visualization**: Cluster plots with color-coded segments
 
 ---
 
